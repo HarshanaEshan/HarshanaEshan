@@ -1,3 +1,5 @@
+<img src="./quotes-unscreen.gif" width="350px" align="right" />
+
 # **Hey it's me, Harshana Eshan** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <img src="https://lh3.googleusercontent.com/-Qz_8NuGBAe4/VhE3wxJUcoI/AAAAAAAAkZ0/zEJAcYxcypE/s1600/sri-lanka-flag-animation.gif" width=30px>  <img src="./assets/sl-flag.gif" width="35px"> 
 
  </br><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
