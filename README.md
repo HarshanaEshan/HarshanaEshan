@@ -5,12 +5,14 @@
 
   </br><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" align="left">
       </br><a href="https://visitcount.itsvg.in/api?id=HarshanaEshan&icon=5&color=8">
-        <img src="https://visitcount.itsvg.in/api?id=HarshanaEshan&icon=5&color=8">
-      </a> 
+        <img src="https://visitcount.itsvg.in/api?id=HarshanaEshan&icon=5&color=8"></a>
+        [![Explore Portfolio](https://img.shields.io/badge/Explore%20Portfolio-HarshanaEshan-blue)](https://harshanaeshan.github.io/Portfolio/)
+
       
  ### Undergraduate | Businessman | Cricketer | Trader 🧑‍🎓🧑‍💻   
- ### I am an undergraduate at the University of Kelaniya.</br>I do Computer Science and Statistics as my major subjects & </br>I'm a freelancer.
+ ### I am an undergraduate at the University of Kelaniya.<br/> I do Computer Science and Statistics as my major subjects & </br>I'm a freelancer.
  </br></br>
+
 
 
 
@@ -25,7 +27,7 @@
 </div>
 
 
-<div align="">
+<div align="center">
 
 <h2 align="center">Lest contact</h2>
 <p align="center">
@@ -46,7 +48,7 @@
 
 
 
-<div align="">
+<div align="center">
 <h2 align="center">Languages And Tools</h2>
  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
