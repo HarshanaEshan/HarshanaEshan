@@ -1,14 +1,19 @@
-<img src="./quotes-unscreen.gif" width="350px" align="right" />
+<img src="./quotes-unscreen.gif" width="350px" align="right"> 
 
 # **Hey it's me, Harshana Eshan** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <img src="https://lh3.googleusercontent.com/-Qz_8NuGBAe4/VhE3wxJUcoI/AAAAAAAAkZ0/zEJAcYxcypE/s1600/sri-lanka-flag-animation.gif" width=30px>  <img src="./assets/sl-flag.gif" width="35px"> 
 
- </br><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
- [![](https://visitcount.itsvg.in/api?id=HarshanaEshan&icon=5&color=8)](https://visitcount.itsvg.in)
 
- 
- <h3>Undergraduate | Businessman | Cricketer | Trader 🧑‍🎓🧑‍💻</h3>
-<h3>I am an undergraduate at the University of Kelaniya.</br>
-  I do Computer Science and Statistics as my major subjects & I'm a self-employee.</h3> </br>
+  </br><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" align="left">
+      </br><a href="https://visitcount.itsvg.in/api?id=HarshanaEshan&icon=5&color=8">
+        <img src="https://visitcount.itsvg.in/api?id=HarshanaEshan&icon=5&color=8">
+      </a> 
+      
+ ### Undergraduate | Businessman | Cricketer | Trader 🧑‍🎓🧑‍💻   
+ ### I am an undergraduate at the University of Kelaniya.</br>I do Computer Science and Statistics as my major subjects & </br>I'm a freelancer.
+ </br></br>
+
+
+
 
 
 <div align="center">
@@ -20,6 +25,7 @@
 </div>
 
 
+<div align="center">
 
 <h2 align="center">Lest contact</h2>
 <p align="center">
@@ -31,10 +37,16 @@
 <a href="https://www.instagram.com/harshana_eshan/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> </br>
 <a href="https://telegram.me/Eshan99">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a> <a href="https://wa.me/94716048560">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a> 
 
+
+</div>
+
+
+
 </br>
 
 
 
+<div align="center">
 <h2 align="center">Languages And Tools</h2>
  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -64,6 +76,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+
+</div>
+
+
+
 </br><br>
 
 <h3 align="center">My Statistics</h3> </br>
@@ -87,12 +104,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-
-# My Portfolio
-
-[![Portfolio](https://harshanaeshan.github.io/Portfolio/)](https://harshanaeshan.github.io/Portfolio/)
-
-Check out my [Portfolio](https://harshanaeshan.github.io/Portfolio/)
 
 
 
