@@ -25,7 +25,7 @@
 </div>
 
 
-<div align="center">
+<div align="">
 
 <h2 align="center">Lest contact</h2>
 <p align="center">
@@ -46,7 +46,7 @@
 
 
 
-<div align="center">
+<div align="">
 <h2 align="center">Languages And Tools</h2>
  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
