@@ -10,8 +10,14 @@
 <h3>I am an undergraduate at the University of Kelaniya.</br>
   I do Computer Science and Statistics as my major subjects & I'm a self-employee.</h3> </br>
 
-         
 
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshanaEshan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+
+</div>
 
 
 
@@ -65,7 +71,6 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=HarshanaEshan&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshanaEshan&theme=dark&hide_border=false" /> 
@@ -82,6 +87,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
+
+# My Portfolio
+
+[![Portfolio](https://harshanaeshan.github.io/Portfolio/)](https://harshanaeshan.github.io/Portfolio/)
+
+Check out my [Portfolio](https://harshanaeshan.github.io/Portfolio/)
+
+
+
 <!--
 <div align="center">
   <h2>My Contributions</h2>
@@ -90,5 +104,6 @@
   
   <br/><br/><br/>
 </div> -->
+
 
 
